@@ -458,9 +458,3 @@ Mort aux fachos !
 ## Matériel
 
 Tout est disponible sur [Google Drive](https://drive.google.com/drive/folders/1AfNjkrfUoZWlMi_5lFYXAQeiuqfS8m7L?usp=sharing), mais n’hésitez pas à nous communiquer vos besoins en matos et nous vous fournirons volontiers rapidement.
-
-## Réponses à toute autre question
-
-- thierry.vaningelgom@gmail.com
-- +352 661 36 00 37
-- ou via Messenger : Thierry van Ingelgom
