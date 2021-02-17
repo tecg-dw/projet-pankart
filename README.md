@@ -37,7 +37,7 @@ Quelqu'un qui vous comprend, même différent et au bout du monde, est comme un 
 ## L'existant
 
 1. Sites web
-    - [Gigstarter](www.gigstarter.fr/artists/pankart) : booking Europe (UK, IT, ES, DE, NL, FR, BE, AT)
+    - [Gigstarter](https://www.gigstarter.fr/artists/pankart) : booking Europe (UK, IT, ES, DE, NL, FR, BE, AT)
     - [Lampli](https://lampli.be/artist-profile/pankart/) : site qui réunit les artistes et organisateurs de la province de Luxembourg
     - [YouTube](https://www.youtube.com/channel/UC7XhVCykTsQEJp6P0eTVfmQ/playlists)
     - Un nom de domaine enregistré sur behostings : www.pankart.be
@@ -107,33 +107,33 @@ Panꓘart s’écrit avec le K en majuscule et à l’envers.
 
 ## Bio Pankart
 
-Janvier 2018, froide, silencieuse et sombre soirée 
-Deux musicos se languissent 
-Mathieu et Noé 
-Un bœuf à deux, guitare et mandoline, et hop, la première compo leur saute aux yeux 
-« Pas trop mal » se disent-ils, mais ça manque d’instrus 
-Les G crépitent et vite rameutent du beau monde 
-Raphaël et William. Accordéon, Flûte et Basse 
-Puis Bastien et Maxime. Guitares et Batterie 
+Janvier 2018, froide, silencieuse et sombre soirée  
+Deux musicos se languissent  
+Mathieu et Noé  
+Un bœuf à deux, guitare et mandoline, et hop, la première compo leur saute aux yeux  
+« Pas trop mal » se disent-ils, mais ça manque d’instrus  
+Les G crépitent et vite rameutent du beau monde  
+Raphaël et William. Accordéon, Flûte et Basse  
+Puis Bastien et Maxime. Guitares et Batterie  
 Pour les c(h)œurs, ils s’y mettront tous
 
-Luxembourgeois, mais de la province belge, Monsieur ! 
-Antécédents ? 
-Festif marin : Cré Tonnerre 
-Pop-Rock : Djinn Saout et Dabah 
-Funk-Soul : Who is titi? et Afrocalips 
-Leurs horizons différents pourtant se rejoignent 
-Sonorités celtiques, PanKart est né 
+Luxembourgeois, mais de la province belge, Monsieur !  
+Antécédents ?  
+Festif marin : Cré Tonnerre  
+Pop-Rock : Djinn Saout et Dabah  
+Funk-Soul : Who is titi? et Afrocalips  
+Leurs horizons différents pourtant se rejoignent  
+Sonorités celtiques, PanKart est né  
 Messager dénonciateur des choses qui, quand elles ne tournent pas rond, tournent en rond…
 
-Panꓘart, musique post-ère capitaliste 
-Une bande drôle aux calicots 
-Porteuse de slow-gants de boxe, o'fist 
-Messages sur cartons bien hauts 
-Elle s'étiquette anti-fasciste 
-S'affiche en porte-drapeau 
-Et d'écriteaux publicistes 
-Pour pas tomber dans le panneau 
+Panꓘart, musique post-ère capitaliste  
+Une bande drôle aux calicots  
+Porteuse de slow-gants de boxe, o'fist  
+Messages sur cartons bien hauts  
+Elle s'étiquette anti-fasciste  
+S'affiche en porte-drapeau  
+Et d'écriteaux publicistes  
+Pour pas tomber dans le panneau
 
 ## Line up
 
@@ -148,15 +148,15 @@ Pour pas tomber dans le panneau
 
 ## Pankart dans la presse
 
-- À la télé : [**Panꓘart finaliste d’un concours européen**]()
-- En radio : [**Panꓘart sort son premier EP**]()
+- À la télé : [**Panꓘart finaliste d’un concours européen**](https://www.tvlux.be/video/info/musique/le-groupe-pankart-finaliste-d-un-concours-europeen_36119.html?fbclid=IwAR2b_Nca95QZGqEMjaaBDKfy2Re7vT-mzXE7uw2sTV_JIj_0HawPOnZaUHQ)
+- En radio : [**Panꓘart sort son premier EP**](https://www.rtbf.be/vivacite/emissions/detail_luxembourg-matin/accueil/article_pan-art-sort-son-premier-ep?id=10493157&programId=5588)
 
 ## Lyrics
 
 ### Monsanto
 
-_Paroles ©Manoëlle Vanschepdael_ 
-_Composition & Arrangements ©Panꓘart_ 
+_Paroles ©Manoëlle Vanschepdael_  
+_Composition & Arrangements ©Panꓘart_  
 
 ```
 Chantal travaille dans un labo
@@ -210,8 +210,8 @@ Les enfants de la plante mère
 
 ### Calais Pakistanais
 
-_Paroles ©Manoëlle Vanschepdael_ 
-_Composition & Arrangements ©Panꓘart_ 
+_Paroles ©Manoëlle Vanschepdael_  
+_Composition & Arrangements ©Panꓘart_  
 
 ```
 C'est quelque part dans une cité d'la banlieue triste de Calais
@@ -262,8 +262,8 @@ Au-dessus des lois, au-dessus des droits
 
 ### Pas trop tard
 
-_Paroles ©Mathieu Menot_ 
-_Composition & Arrangements ©Panꓘart_ 
+_Paroles ©Mathieu Menot_  
+_Composition & Arrangements ©Panꓘart_  
 
 ```
 Depuis plus de 30 ans
@@ -321,8 +321,8 @@ Pour prendre une autre direction
 
 ### 7ème Ciel
 
-_Paroles ©Mathieu Menot_ 
-_Composition & Arrangements ©Panꓘart_ 
+_Paroles ©Mathieu Menot_  
+_Composition & Arrangements ©Panꓘart_  
 
 ```
 Par une belle après-midi d'été
@@ -356,7 +356,7 @@ Je m'voyais déjà au 7ème ciel
 Le tourne disque s'est arrêté
 Je suis en slip et en marcel
 Le doute commence à s'installer
-Pourquoi est-elle si cruelle 
+Pourquoi est-elle si cruelle  
 Après tout j'lui ai rien demandé
 Si je suis là c'est de sa faute à elle
 Alors je suis monté au premier
@@ -368,7 +368,7 @@ Les yeux fermés sur l'oreiller
 Par un baiser j'ai réveillé la donzelle
 
 Sa joue était douce et parfumée
-Moi dans une bulle atemporelle 
+Moi dans une bulle atemporelle  
 e m'retrouve con, paralysé
 Dans cette situation irréelle
 Cette histoire aurait pu s'terminer
@@ -384,14 +384,14 @@ On est monté au 7ème ciel
 
 ### L'Autoroute
 
-_Paroles © Mathieu Menot & Noé van Ingelgom_ 
-_Composition & Arrangements ©Panꓘart_ 
+_Paroles © Mathieu Menot & Noé van Ingelgom_  
+_Composition & Arrangements ©Panꓘart_  
 
 ```
 Couplet :   Em – Em – Am – B
-            G – G – D – G – Em 
-Refrain :   D – G – Em – D  
-            D – G – Am – B 
+            G – G – D – G – Em  
+Refrain :   D – G – Em – D   
+            D – G – Am – B  
 
 Intro : Couplet x 2
 
@@ -405,7 +405,7 @@ Accordéon       Les factures à honorer
                 J'veux pas d'la charité
                 Mais plutôt d'la parité
 
-Aaaaah Si t'étais mon gosse j'te dirais...  (2x) 
+Aaaaah Si t'étais mon gosse j'te dirais...  (2x)  
 Va jouer sur l'autoroute
 
 Break : Couplet x1
@@ -419,7 +419,7 @@ Reggae          Crois pas qu'ça va durer des années
                 Vaudra mieux rester planqué
                 Dans ton bunker aménagé
 
-Aaaaah Si t'étais mon gosse j'te dirais...  (2x) 
+Aaaaah Si t'étais mon gosse j'te dirais...  (2x)  
 Va jouer sur l'autoroute
 
 Instru guitare : Couplet x2
@@ -434,12 +434,12 @@ Couplet + aéré  Les nécrologies pleines à craquer
                 Tes pesticides auront gagné
                 La fin d'l'humanité
 
-Aaaaah Si t'étais mon gosse j'te dirais...  (4x) 
-Va jouer sur l'autoroute 
+Aaaaah Si t'étais mon gosse j'te dirais...  (4x)  
+Va jouer sur l'autoroute  
 
 Instru guitare : Couplet x2 + Refrain
 
-Aaaaah Si t'étais mon gosse j'te dirais...  (2x) 
+Aaaaah Si t'étais mon gosse j'te dirais...  (2x)  
 Va jouer sur l'autoroute            (4x)
 ```
 
