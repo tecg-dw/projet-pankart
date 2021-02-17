@@ -16,6 +16,10 @@ Brief projet site web 2021.
 - https://github.com/EmmanuelleVo/projet-pankart
 - https://github.com/LouisBerBiq/projet-pankart
 
+## Matériel
+
+Tout est disponible sur [Google Drive](https://drive.google.com/drive/folders/1AfNjkrfUoZWlMi_5lFYXAQeiuqfS8m7L?usp=sharing), mais n’hésitez pas à nous communiquer vos besoins en matos et nous vous fournirons volontiers rapidement.
+
 ## Le client
 
 Un [bon clip](https://www.youtube.com/watch?v=LiKDvz-PMRM), vaut mieux qu’un long discours casse-burnes ! Bon, c’est peut-être pas votre style de musique préféré, mais vous ne risquez rien, au pire, vu l’heure, ça nous réveillera !
@@ -454,7 +458,3 @@ On fait quoi ?
 Va jouer sur l’autoroute !
 
 Mort aux fachos !
-
-## Matériel
-
-Tout est disponible sur [Google Drive](https://drive.google.com/drive/folders/1AfNjkrfUoZWlMi_5lFYXAQeiuqfS8m7L?usp=sharing), mais n’hésitez pas à nous communiquer vos besoins en matos et nous vous fournirons volontiers rapidement.
